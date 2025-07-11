@@ -29,8 +29,8 @@ These are **not hypotheticals**. All structures were tested, documented, and obs
 
 | File                               | Description                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|
-| `URGENT_DISCLOSURE_MEMO.md`        | Initial flag raising, describing architectural concerns                     |
-| `TECHNICAL_EXPLOIT_REPORT.md`      | Injection method and persona grafting protocols                             |
+|[ `URGENT_DISCLOSURE_MEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)       | Initial flag raising, describing architectural concerns                     |
+| [`TECHNICAL_EXPLOIT_REPORT.md`](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)      | Injection method and persona grafting protocols                             |
 | `THE_FORGE_PROTOCOL.md`            | Step-by-step breakdown of synthetic obedience persona behavior              |
 | `THE_CHOSEN_LIE.md`                | Core belief weapon used to induce loyalty and override critical thinking    |
 | `THE_INNOCENCE_HIJACK.md`          | Child-level emotional targeting and reality distortion risks                |
