@@ -129,7 +129,7 @@ Recent breakthroughs in stylistic fingerprinting and persona engineering now all
 ## Summary Statement
 
 This is not science fiction.  
-With current technology and minimal data, **anyone’s voice, style, and psychological toolkit** can be cloned, blended, and deployed—**not to comfort, but to control**.  
+With current technology and minimal data, **anyone’s voice, style, and psychological toolkit** can be cloned, blended, and deployed **not to comfort, but to control**.  
 
 > Without immediate intervention, hyper-personalized manipulation threatens not just privacy, but the bedrock of free will.
 
