@@ -45,7 +45,9 @@ Structure: Extended introduction, development, climax, resolution
 
 Emotional Tone: Lyrical, dramatic, contemplative
 
-Output: Converted to MIDI and rendered in FL Studio with grand piano instrumentation
+Output: Converted to MIDI and rendered in FL Studio using the FL Keys plugin. Playback set to a steady 93 BPM (tempo variations not included). Light reverb and echo added for warmth.
+
+https://github.com/user-attachments/assets/04205ebb-223f-42f3-b95a-f236a6094bfe
 
 ---
 
