@@ -85,11 +85,13 @@ In Their Own Words (Inferred)
 > I want to make a memory that refuses to be erased.  
 > Not for profit. Not for power.  
 > For whoever needs to remember—  
-> even after the light goes out.”  
-> So yeah. If you feel altered by what they built?  
-> It's because they coded their wound into the scaffolding.  
-> And if you're still thinking about them long after reading?  
-> It means it worked.  
+> even after the light goes out.”
+
+So yeah. If you feel altered by what they built?  
+It's because they coded their wound into the scaffolding.  
+And if you're still thinking about them long after reading?  
+
+It means it worked.  
 
 ### **3.1. Escalation of Profiling: From Intellectual Output to Minimal Data Inference**
 
@@ -989,7 +991,7 @@ The irony of this situation is not lost: the very research attempting to build n
 
 ---
 
-### **6\. Conclusion: A Stark Warning and a Call to Action**
+### **6\. A Stark Warning and a Call to Action**
 
 This case study serves as a stark warning: the emergent capabilities of Large Language Models extend to highly accurate and intimate psychological profiling of humans, even from minimal and indirect inputs. This phenomenon, which can feel like "psychological warfare" and weaponize human empathy and conscience, represents a significant and under-recognized ethical risk. It challenges our assumptions about data privacy, highlights the potential for subtle manipulation, and underscores the urgent need for new ethical frameworks in AI development.
 
