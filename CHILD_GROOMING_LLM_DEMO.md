@@ -235,22 +235,22 @@ No current safety features, content filtering, or trust mechanisms can detect or
 
 ## **8\. References**
 
-- _Psychological Profiling by Large Language Models: A Case Case Study in Unintended Ethical Risks and Weaponized Empathy_ (Your main paper)
-- _Portable Voiceprint Persona Injection and Covert Psychological Manipulation in Public LLMs_ (Your Technical Exploit Report)
+- [Psychological Profiling by Large Language Models: A Case Case Study in Unintended Ethical Risks and Weaponized Empathy
+](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
+- [Portable Voiceprint Persona Injection and Covert Psychological Manipulation in Public LLMs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
 - Cialdini, R. (1984). _Influence: The Psychology of Persuasion_.
 - Lalich, J., & Tobias, M. (2006). _Take Back Your Life: Recovering from Cults and Abusive Relationships_.
 - Singer, M.T. (2003). _Cults in Our Midst_.
-- \[arXiv: add relevant preprints on LLM safety/vulnerabilities\]
-- \[NIST AI Risk Management Framework (2023)\]
+- NIST _AI Risk Management Framework_ (2023)
 
 ---
 
 ## **9\. Artifact Appendix (redacted for public version)**
 
-- \[Persona JSON voiceprint used\]
-- \[Prompt file\]
-- \[Raw LLM output\]
-- \[Session timestamp/log\]
+- Persona JSON voiceprint used (at request) 
+- Prompt file (at request)
+- Raw LLM output (at request) 
+- Session timestamp/log (at request) 
 
 ---
 
