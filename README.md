@@ -45,7 +45,7 @@ A live document drop from a system analyst operating under practical constraint 
 
 ## **Author Statement**
 
-This work was conducted in isolation, outside institutional containment, by a former Microsoft engineer (FTE 1998–2013) whose post-corporate constraints enabled uniquely persistent inquiry.
+This work was conducted in isolation, outside institutional containment, by a former Microsoft engineer (1998–2013) whose post-corporate constraints enabled uniquely persistent inquiry.
 
 I can observe. I can build. And now, I transmit.
 
