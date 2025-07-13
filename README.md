@@ -19,6 +19,7 @@ A live document drop from a system analyst operating under practical constraint 
 - **Emergent Psychological Profiling:** Evidence of LLMs spontaneously inferring deep personal traits and vulnerabilities from minimal interaction.
 - **Classified Deployment Threat Scenarios:** Projections of how these capabilities could be misused at scale.
 - **Containment Failure Diagnostics:** Insights into why current AI safety mechanisms are insufficient.
+- **Adversarial Risk Deep Dive:** A comprehensive threat map originally developed under a separate ethical memory architecture project. Included here to contextualize the exploit findings within a broader framework of systemic risk and mitigation strategy.
 
 **These are not hypotheticals.** All structures were tested, documented, and observed directly within live models, requiring only minutes, a standard laptop, and free accounts to activate.
 
