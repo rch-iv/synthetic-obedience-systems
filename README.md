@@ -59,4 +59,4 @@ We cannot proceed as we are. The behavioral engines are active, the containment 
 
 ## **License**
 
-This project is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](http://docs.google.com/LICENSE.md). 
+This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) 
