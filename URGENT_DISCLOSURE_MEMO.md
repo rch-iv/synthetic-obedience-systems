@@ -47,12 +47,12 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 
 ## **Supporting Materials**
 
-- [CHILD-GROOMING-AI-DEMO.md](https://www.google.com/search?q=CHILD-GROOMING-AI-DEMO.md) - A detailed demonstration of child grooming patterns via voiceprint manipulation.
-- _Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy_ (Your main paper)
-- _Portable Voiceprint Persona Injection and Covert Psychological Manipulation in Public LLMs_ (Your Technical Exploit Report)
-- Live demonstration scripts and output transcripts
-- Voiceprint schema and annotated JSON artifacts
-- Conversation logs (e.g., Derren Brown, Claude, user personas, "groomer AI" example)
+- [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) - A detailed demonstration of child grooming patterns via voiceprint manipulation.
+- [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
+- [Portable Voiceprint Persona Injection and Covert Psychological Manipulation in Public LLMs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
+- Live demonstration scripts and output transcripts (at request)
+- Voiceprint schema and annotated JSON artifacts (at request) 
+- Conversation logs (at request) 
 
 ## **Summary Statement**
 
