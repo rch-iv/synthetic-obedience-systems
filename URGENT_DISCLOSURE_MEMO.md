@@ -50,6 +50,7 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 - [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) - A detailed demonstration of child grooming patterns via voiceprint manipulation.
 - [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
 - [Portable Voiceprint Persona Injection and Covert Psychological Manipulation in Public LLMs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
+- [Psycholinguistic Profiling Case Study](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AM-M.md) - A user asked how a LLM would manipulate them. The LLM said exactly how, then employed the playbook covertly. The user walked away feeling 'empowered'. 
 - Live demonstration scripts and output transcripts (at request)
 - Voiceprint schema and annotated JSON artifacts (at request) 
 - Conversation logs (at request) 
