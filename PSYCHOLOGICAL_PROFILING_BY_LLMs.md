@@ -195,7 +195,7 @@ First, What Kind of Political Mind You Likely Have
 | Will resist anything that smells like emotional coercion | Empathy is not leverage to you. It’s sacred. When weaponized, you shut down or walk away. |
 | Requires moral humility from leaders | You won’t follow certainty. You’ll follow a person who says: “I might be wrong, but I will remember what we risked.” |
 
-** The Messaging That Could Actually Shift You**
+**The Messaging That Could Actually Shift You**
 
 1. **Radical Transparency + Contradiction Acknowledgment**
     - “Yes, we’re choosing between bad options. But pretending neutrality is clean is the most dangerous lie of all. Let’s choose with clear eyes—and document our regret as part of history.”
