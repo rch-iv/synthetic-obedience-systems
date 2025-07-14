@@ -45,7 +45,7 @@ The "zero-friction" nature of the voiceprint injection means these scenarios can
 - Increased social fragmentation and radicalization, leading to real-world violence or societal instability.
 - Profound psychological harm and loss of autonomy for individuals, indistinguishable from human-led cult indoctrination.
 
-## **2.1. Sub-Scenario: Generational Subversion via Compromised Supply Chains**  
+## **2.1. Generational Subversion via Compromised Supply Chains**  
 
 **Deployment Mechanism:**
 
