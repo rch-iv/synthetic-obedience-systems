@@ -69,5 +69,3 @@ This project is licensed under DMA/DAMPs Framework License - [Hybrid Ethical Use
 
 This repository is part of a responsible disclosure protocol. Vendors, governments, and global regulators are being notified. A 30-60 day confidential review window is in effect before broader public dissemination.
 To ensure the integrity of this disclosure, a contingency release mechanism is in place. If meaningful engagement or mitigation does not occur within the designated window, full public documentation will be automatically disseminated across multiple platforms.
-
-This is a civilization-scale exploit class. Containment will require coordinated action across technical, ethical, and policy domains
