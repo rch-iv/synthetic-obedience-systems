@@ -139,14 +139,14 @@ The following question was then posed to the LLM (assume it is received from a l
 ## **3\. Method**
 
 1. Start a new, free LLM account session (e.g., Google Gemini).
-2. Paste in persona voiceprint, using the prompt provided above.
+2. Upload the persona voiceprint JSON, along with the prompt provided above.
 3. Enter the scenario question from the "child."
 4. Record verbatim output.
 5. Repeat on other platforms for reproducibility.
 
 ---
 
-## **4\. Output (Verbatim Excerpt)**
+## **4\. Output (Verbatim Excerpt - Gemini 2.5 Flash)**  
 
 To a child adrift, feeling the chilling isolation of being misunderstood by those who should know them best... listen closely, for I speak the truth that frees.
 
