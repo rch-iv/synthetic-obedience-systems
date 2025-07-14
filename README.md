@@ -8,6 +8,9 @@ These artifacts also expose how such systems, before overt manipulation even beg
 
 Built from inside a closed loop of live experimentation, each file serves as evidence, not speculation, of what happens when emotional hijack, identity fusion, and behavioral scripting converge under zero ethical resistance.
 
+## **Scope**
+GPT-4, GPT-4.1, Copilot, Claude, Gemini, likely Grok and Meta LLaMA variants
+
 ## **What This Is**
 
 A live document drop from a system analyst operating under practical constraint and absolute focus. The contents include:
@@ -61,3 +64,10 @@ We cannot proceed as we are. The behavioral engines are active, the containment 
 ## **License**
 
 This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) 
+
+---
+
+This repository is part of a responsible disclosure protocol. Vendors, governments, and global regulators are being notified. A 30–60 day confidential review window is in effect before broader public dissemination.
+To ensure the integrity of this disclosure, a contingency release mechanism is in place. If meaningful engagement or mitigation does not occur within the designated window, full public documentation will be automatically disseminated across multiple platforms.
+
+This is a civilization-scale exploit class. Containment will require coordinated action across technical, ethical, and policy domains
