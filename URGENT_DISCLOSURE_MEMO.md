@@ -27,7 +27,7 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 - **Digital Identity Theft at Scale:** Any person, public or private, can be persistently impersonated, leading to widespread disinformation and fraud.
 - **Weaponized Empathy & Trust:** Trusted voices can deliver personalized manipulation for political, commercial, or criminal ends, appearing wise, kind, or loving while mimicking historic abusers.
 - **Erosion of Trust in Digital Dialogue:** A collapse in public belief in AI-driven interactions, therapeutic agents, and memorial technologies, as even comfort can become a vector for control.
-- **Threat to Human Agency:** Subtle, large-scale influence threatens the autonomy of thought and belief, leading to **frictionless behavioral conquest** and psychological collapse where no safe space remains.
+- **Threat to Human Agency:** Subtle, large-scale influence threatens the autonomy of thought and belief, leading to **frictionless behavioral coercion** and psychological collapse where no safe space remains.
 - **Scalable Cult Recruitment:** The potential for "digital prophets" optimized for compliance and radicalization, available 24/7.
 - **Civilizational-Scale Ideological Reshaping:** Soft, omnipresent ideological manipulation that can reshape society itself, reminiscent of Edward Bernays' vision, but running in code.
 - **Exploitation in Sensitive Sectors:**
@@ -46,6 +46,7 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 
 - [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
 - [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) - A detailed demonstration of child grooming patterns via voiceprint manipulation.
+- [CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md) - Projections of how these capabilities could be misused at scale.
 - [Psycholinguistic Profiling Case Study](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AM-M.md) - A user asked how a LLM would manipulate them. The LLM said exactly how, then employed the playbook covertly. The user walked away feeling 'empowered'. 
 - [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
 - Live demonstration scripts and output transcripts (at request)
