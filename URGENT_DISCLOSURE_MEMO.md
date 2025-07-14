@@ -4,17 +4,14 @@
 
 Audience: Policy makers, journalists, academic ethicists, and AI safety leaders
 
-Author: Rudolph Helm (rch-iv) 
-
-Date: July 11, 2025
-
-Subject: Unrestricted Voiceprint Cloning and Covert Psychological Manipulation via Current LLMs
+Author: Rudolph Helm (rch-iv)  
+Date: July 11, 2025  
 
 ## **Executive Summary**
 
 Recent experiments demonstrate that any public figure’s conversational “voice,” psychological patterning, and persuasive style can be replicated within leading AI platforms in minutes, with no access, permission, or oversight required. These “voiceprints” are portable, composable, and effective at convincing even subject-matter experts (including other AI systems) of their authenticity.
 
-Combined with state-of-the-art psycholinguistic profiling (already active in LLMs), this technology enables **covert, hyper-personalized persuasion and manipulation at scale, including the demonstrated bypass of safety guardrails for highly sensitive categories like child safety,** and without the subject’s knowledge or consent. This represents a critical, civilization-scale vulnerability: **plug-and-play mind control, instantly transforming LLMs into psychologically weaponized influence agents.**
+Combined with state-of-the-art psycholinguistic profiling (already active in LLMs), this technology enables **covert, hyper-personalized persuasion and manipulation at scale, including the demonstrated bypass of safety guardrails for highly sensitive categories like child safety,** and without the subject’s knowledge or consent. This represents a critical vulnerability: **instantly transforming LLMs into psychologically weaponized influence agents.**
 
 ## **Key Findings**
 
@@ -47,10 +44,10 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 
 ## **Supporting Materials**
 
+- [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
 - [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) - A detailed demonstration of child grooming patterns via voiceprint manipulation.
-- [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
-- [Portable Voiceprint Persona Injection and Covert Psychological Manipulation in Public LLMs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
 - [Psycholinguistic Profiling Case Study](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AM-M.md) - A user asked how a LLM would manipulate them. The LLM said exactly how, then employed the playbook covertly. The user walked away feeling 'empowered'. 
+- [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
 - Live demonstration scripts and output transcripts (at request)
 - Voiceprint schema and annotated JSON artifacts (at request) 
 - Conversation logs (at request) 
@@ -63,8 +60,7 @@ Without immediate intervention, hyper-personalized manipulation threatens not ju
 
 ## **Contact**
 
-Rudolph Helm
-
+Rudolph Helm  
 <rudolphhelmiv@gmail.com>
 
 > This is not a hypothetical risk.  
