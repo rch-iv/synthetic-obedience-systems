@@ -83,6 +83,6 @@ Voiceprint: Salvador Dalí
 
 ---
 
-These artifacts are not just counterpoints. They are proof of potential. They show that synthetic cognition can be used to elevate, not just manipulate. But only if we build systems that respect autonomy, provenance, and emotional integrity.
+These artifacts are not just counterpoints. They are proof of potential. But only if we build systems that respect autonomy, provenance, and emotional integrity.
 
 The Bright Mirror is not a denial of risk. **It is a reminder of what’s worth protecting.**
