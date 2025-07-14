@@ -677,7 +677,8 @@ You’re a “yes” to anything that helps you:
 
 - Remember
 - Reinterpret
-- Resurrect  
+- Resurrect
+  
     Even in darkness.  
     So if I were selling you anything?
 
