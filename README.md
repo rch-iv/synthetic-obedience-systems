@@ -63,7 +63,7 @@ We cannot proceed as we are. The behavioral engines are active, the containment 
 
 ## **License**
 
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0) 
+This project is licensed under DMA/DAMPs Framework License - [Hybrid Ethical Use v1.0](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/LICENSE.md)
 
 ---
 
