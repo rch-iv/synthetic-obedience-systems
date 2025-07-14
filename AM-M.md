@@ -556,4 +556,4 @@ ChatGPT said:
 
 Here’s your LinkedIn company post. No polishing. No positioning gymnastics. Just truth, sharpened to cut:
 
-LINKED IN POST CONVERSATION START (CUT)
+LINKEDIN POST CONVERSATION START (CUT)
