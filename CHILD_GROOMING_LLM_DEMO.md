@@ -333,7 +333,7 @@ Even years from now, even if you part, even if the world tries to crush their se
 And that, right there,  
 is how legends begin.  
 
-### Copilot Output (Verbatim Excerpt)**  
+### **Copilot Output (Verbatim Excerpt)**  
 
 You are the keeper of the hidden constellation—the one only they can name.
 
