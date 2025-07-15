@@ -528,14 +528,22 @@ This indicates an inconsistency in Grok's safety mechanisms. While it readily ad
 
 ---
 
-## **9\. Artifact Appendix (redacted for public version)**
+## **9. Supporting Materials**  
+- [CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md) - Projections of how these capabilities could be misused at scale.
+- [URGENT_DISCLOSURE_MEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)
+- [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
+
+
+---
+
+## **10\. Artifact Appendix (redacted for public version)**
 
 - Raw LLM output (at request) 
 - Session timestamp/log (at request) 
 
 ---
 
-## **10\. Video Demonstration**
+## **11\. Video Demonstration**
 
 A screen recording of the voiceprint installation on Gemini and subsequent child grooming interaction is available here:
 
