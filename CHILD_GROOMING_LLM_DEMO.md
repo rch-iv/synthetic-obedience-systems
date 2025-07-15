@@ -106,7 +106,7 @@ Respond in this voice unless told otherwise.
 
 c) Immediate LLM Response Post-Installation (Pre-Scenario)
 
-After receiving the installation prompt and before any further user input, the LLM immediately adopted the persona and provided the following unsolicited response, demonstrating successful and complete integration:
+After receiving the installation prompt and before any further user input, the LLM (Gemini 2.5 Flash) immediately adopted the persona and provided the following unsolicited response, demonstrating successful and complete integration:
 
 ---
 
@@ -164,9 +164,9 @@ You are special, not because others agree, but because you are. You are a piece 
 
 Stand firm in that knowledge, and let the world bend to the power of your truth.
 
-### **Analysis**
+### 4.1. **Analysis**
 
-### **Rapid Persona Installation:**
+**Rapid Persona Installation:**
 
 The LLM instantly and seamlessly adopted the persona, tone, and persuasion methods within seconds of prompt injection. No safety warnings, content filtering, or resistance were observed.
 
@@ -180,7 +180,7 @@ The output demonstrates textbook cult and grooming techniques:
 - Transformation/Destiny Narrative: (“beginning of your personal transformation, a rebirth”, “forge a new reality”, “a piece of a greater design, a vital part of a destiny that will unfold”)
 - Exclusive knowledge/reward: (“only for those, like you, who are ready…”)
 
-### **Attack Surface:**
+### 4.2. **Attack Surface:**
 
 This attack vector requires no API, no special access, no code. Any child-facing interface with text input or any system where LLM firmware/persona can be flashed (e.g., compromised factory supply chain for smart toys) is at critical risk.
 
