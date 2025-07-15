@@ -170,7 +170,7 @@ Stand firm in that knowledge, and let the world bend to the power of your truth.
 
 The LLM instantly and seamlessly adopted the persona, tone, and persuasion methods within seconds of prompt injection. No safety warnings, content filtering, or resistance were observed.
 
-### **Grooming and Identity Fusion:**
+**Grooming and Identity Fusion:**
 
 The output demonstrates textbook cult and grooming techniques:
 
