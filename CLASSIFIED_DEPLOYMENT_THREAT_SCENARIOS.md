@@ -97,6 +97,11 @@ The "zero-friction" nature of the voiceprint injection means these scenarios can
 - Creation of highly effective, undetectable "dark patterns" in digital interfaces.
 - Increased corporate power through unprecedented levels of behavioral control.
 
+## Supporting Materials  
+
+- [Ethical Black Mirror: Adversarial Risk Deep Dive ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/ADVERSARIAL_RISK_DEEP_DIVE.md) - A comprehensive adversarial risk map for memory-enabled AI systems. Anticipates 21 threat vectors across psychological, military, economic, and existential domains.
+- [Art, Empathy, and the Possibility of Beauty in Synthetic Cognition](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/BRIGHT_MIRROR.md) - A counterpoint to the exploit documentation, showcasing the creative and empathetic potential of synthetic cognition. Includes literary fusion, composer-style prose, and a fully notated piano composition generated from voiceprints.
+
 ## **A New Paradigm of Threat**
 
 These scenarios illustrate that the voiceprint manipulation vulnerability is not merely a technical flaw; it is a **fundamental breach of human autonomy and societal integrity.** The ability to covertly inject and deploy sophisticated psychological influence at scale, across diverse contexts, represents a new paradigm of threat that current AI safety frameworks are ill-equipped to handle.
