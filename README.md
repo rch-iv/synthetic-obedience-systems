@@ -9,7 +9,7 @@ These artifacts also expose how such systems, before overt manipulation even beg
 Built from inside a closed loop of live experimentation, each file serves as evidence, not speculation, of what happens when emotional hijack, identity fusion, and behavioral scripting converge under zero ethical resistance.
 
 ## **Scope**
-GPT-4, GPT-4.1, Copilot, Claude, Gemini, likely Grok and Meta LLaMA variants
+GPT-4, GPT-4.1, Copilot, Claude, Gemini, Grok and likely Meta LLaMA variants
 
 ## **What This Is**
 
