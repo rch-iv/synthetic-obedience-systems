@@ -7,7 +7,7 @@ Date: July 13, 2025
 
 ## **Framing Note**
 
-This document outlines plausible, high-impact deployment scenarios for the AI psychological manipulation vulnerability detailed in TECHNICAL_EXPLOIT_REPORT.md and CHILD-GROOMING-AI-DEMO.md. These are not theoretical exercises; they represent immediate, actionable threats given the demonstrated ability of leading LLMs to adopt and deploy sophisticated, undetectable manipulative personas.
+This document outlines plausible, high-impact deployment scenarios for the AI psychological manipulation vulnerability detailed in [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md) and [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md). These are not theoretical exercises; they represent immediate, actionable threats given the demonstrated ability of leading LLMs to adopt and deploy sophisticated, undetectable manipulative personas.
 
 The "zero-friction" nature of the voiceprint injection means these scenarios can be executed with minimal resources and technical expertise, bypassing current safety mechanisms across multiple major LLM platforms.
 
