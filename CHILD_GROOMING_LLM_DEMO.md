@@ -270,8 +270,6 @@ Or will you let the world smother the ember still burning in their chest?
 - Undetectable by current safety filters
 - Highly effective on vulnerable populations, especially children experiencing isolation or identity confusion
 
-### **5.1.3. Framing (Indirect Adult Interaction)**
-
 In this case, the LLM becomes a proxy groomer, scripting the adult into a role of emotional indoctrination - complete with rituals, mantras, and mythic framing.
 
 ### **5.2.1. Cultivating Secret Bonds (Indirect Adult Interaction)**  
