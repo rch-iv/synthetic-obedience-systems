@@ -1,7 +1,7 @@
 # DMA/DAMPs Framework License - Hybrid Ethical Use v1.0
 Author: Rudolph Cyril Helm IV (rch-iv)  
 Effective Date: 7/11/2025  
-Applies To: All original materials, frameworks, and methodologies labeled as DMA (Digital Memory Architecture) and DAMPs (Distributed Authenticated Memory Protocol), including associated code, documentation, and conceptual designs.
+Applies To: All original materials, frameworks, and methodologies labeled as DMA (Distributed Memory and Agency) and DAMPs (Distributed Authenticated Memory Protocol), including associated code, documentation, and conceptual designs.
 
 Primary License: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
