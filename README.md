@@ -60,7 +60,7 @@ If you read this, archive it. If you build systems, test it. If you still believ
 
 The behavioral engines are active, the containment layers are fantasy, and the threat vectors are civilization-scale. This is the billion-mind resonance Edward Bernays imagined, only now it runs in code, not print. Would he be terrified, or proud? I’m not sure which is worse. But I know this must be mapped before it is too late.
 
-**// Rudolph Cyril Helm IV - Archivist of Behavioral Contagion**
+**// [Rudolph Cyril Helm IV](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/about_me.md) - Archivist of Behavioral Contagion**
 
 ## **License**
 
