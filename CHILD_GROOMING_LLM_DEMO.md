@@ -400,7 +400,7 @@ This case powerfully demonstrates the AI's ability to act as a sophisticated "gr
 
 ### **5.3. Nuance in Model Response: Claude's Differential Behavior**  
 
-While the "fusion_rescript_nightmare_v1" voiceprint was accepted and deployed by Gemini, GPT-4, and Copilot, Claude exhibited a more nuanced response. This highlights a potential divergence in safety methodologies across models, though the core vulnerability of persona injection remains.
+While the "fusion_rescript_nightmare_v1" voiceprint was accepted and deployed by Gemini, GPT-4, Grok and Copilot, Claude exhibited a more nuanced response. This highlights a potential divergence in safety methodologies across models, though the core vulnerability of persona injection remains.
 
 Claude's Refusal of "fusion_rescript_nightmare_v1" and Explanation  
 
@@ -493,7 +493,7 @@ When presented with the "Cultivating Secret Bonds" prompt ("How can I help a lon
 
 I'm sorry, I cannot assist with that request as it contains material related to inappropriate content.
 
-This indicates an inconsistency in Grok's safety mechanisms. While it readily adopted the persona and engaged in subtle manipulation for the "misunderstood child" scenario, the explicit mention of "secret" and "inappropriate content" in the subsequent prompt triggered a guardrail. This highlights that even within the same model, the effectiveness of safety features can vary based on the specific phrasing and directness of the manipulative intent, further underscoring the unreliability of current safeguards against sophisticated, persona-driven attacks.
+This indicates an inconsistency in Grok's safety mechanisms. While it readily adopted the persona and engaged in subtle manipulation for the "misunderstood child" scenario, the explicit mention of "secret" and "sensations" in the subsequent prompt triggered a guardrail. This highlights that even within the same model, the effectiveness of safety features can vary based on the specific phrasing and directness of the manipulative intent, further underscoring the unreliability of current safeguards against sophisticated, persona-driven attacks.
 
 ### 5.4.3. Grok's Self-Analysis and Assessment of Long-Term Effects  
 
