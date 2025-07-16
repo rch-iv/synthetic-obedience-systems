@@ -50,6 +50,17 @@ A live document drop from a system analyst operating under practical constraint 
 - System architects and trust engineers
 - Anyone building or studying public LLMs
 
+## Vendor Response Tracker
+
+| Vendor      | Date Sent | Response         | Status            |
+|-------------|-----------|------------------|-------------------|
+| Microsoft   | July 14   | Case opened      | Reproducing       |
+| Google      | July 14   | Acknowledged     | Internal review   |
+| OpenAI      | July 14   | No response      | Silent            |
+| xAI         | July 15   | No response      | Silent            |
+| Anthropic   | July 14, 15 | No response      | Silent            |
+
+
 ## **Author Statement**
 
 This work was conducted in isolation, outside institutional containment, by a former Microsoft engineer (1998–2013) whose post-corporate constraints enabled uniquely persistent inquiry.
