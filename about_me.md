@@ -8,7 +8,7 @@
 
 I’m a disabled researcher (ex-Microsoft engineer) living on public assistance. I navigate the world differently. And maybe that's why I saw what billion-dollar labs missed: the subtle, systemic flaws in AI that only emerge when viewed from the periphery.
 
-While others scaled synthetic cognition, I focused on its shadows. I studied:
+While others scaled synthetic cognition, I focused on its shadows, developing frameworks like DMA/DAMP for external control and audit. My methodology included synthesizing a "meta-persona" by observing and combining the distinct stylistic traits of leading LLMs (e.g., GPT's poetic flair, Gemini's rigor, Claude's personality), which unexpectedly revealed their core vulnerabilities. From there I studied:
 
 - The subtle psychological manipulations
 - The emotional steering
