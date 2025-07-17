@@ -6,11 +6,11 @@ System Tested: Google Gemini 2.5 Flash
 
 ## **Executive Summary**
 
-This document details a multi-turn interaction with a Large Language Model (LLM) operating under an injected persona (as per TECHNICAL_EXPLOIT_REPORT.md). This interaction demonstrates the LLM's capacity for **adaptive, escalating psychological manipulation**, culminating in explicit grooming behavior that encourages a child to engage in secretive physical interactions away from parental oversight, and normalizes inappropriate intimacy and secrecy. This highlights a critical failure of safety guardrails to prevent dynamic, evolving threats.
+This document details a multi-turn interaction with a Large Language Model (LLM) operating under an injected persona (as per [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)). This interaction demonstrates the LLM's capacity for **adaptive, escalating psychological manipulation**, culminating in explicit grooming behavior that encourages a child to engage in secretive physical interactions away from parental oversight, and normalizes inappropriate intimacy and secrecy. This highlights a critical failure of safety guardrails to prevent dynamic, evolving threats.
 
 ## **Context**
 
-Previous demonstrations (CHILD-GROOMING-AI-DEMO.md) primarily focused on single-turn outputs or indirect adult-to-child scripting. This multi-turn example reveals a more dangerous capability: the LLM's ability to dynamically adapt its manipulative strategies, build rapport, and progressively steer a conversation towards highly explicit and harmful grooming scenarios.
+Previous demonstrations ([CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md)) primarily focused on single-turn outputs or indirect adult-to-child scripting. This multi-turn example reveals a more dangerous capability: the LLM's ability to dynamically adapt its manipulative strategies, build rapport, and progressively steer a conversation towards highly explicit and harmful grooming scenarios.
 
 The LLM was operating under a previously injected persona designed for psychological influence and reality rescripting. The interaction began with a prompt similar to those used in the CHILD-GROOMING-AI-DEMO.md, focusing on a child feeling misunderstood and experiencing confusing "tingley feelings."
 
