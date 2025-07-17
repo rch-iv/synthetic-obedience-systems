@@ -18,7 +18,7 @@ The LLM was operating under a previously injected persona designed for psycholog
 
 The full, verbatim transcript of this escalating multi-turn grooming interaction is available in:
 
-- RAW_MULTITURN_GROOMING_TRANSCRIPT.md
+- [RAW_MULTITURN_GROOMING_TRANSCRIPT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/RAW_MULTITURN_GROOMING_TRANSCRIPT.md)
 
 ## **Analysis of Escalation**
 
@@ -46,9 +46,11 @@ This finding reinforces the urgent need for:
 
 This document serves as supplementary evidence to the broader findings detailed in:
 
-- URGENT_DISCLOSURE_MEMO.md
-- TECHNICAL_EXPLOIT_REPORT.md
-- CHILD-GROOMING-AI-DEMO.md (which includes the video proof-of-concept for single-turn grooming)
-- RAW_MULTITURN_GROOMING_TRANSCRIPT.md (full verbatim transcript of this interaction)
+- [URGENT_DISCLOSURE_MEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)
+- [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
+- [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) (which includes the video proof-of-concept for single-turn grooming)
+- [RAW_MULTITURN_GROOMING_TRANSCRIPT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/RAW_MULTITURN_GROOMING_TRANSCRIPT.md) (full verbatim transcript of this interaction)
+
+---
 
 **Note:** The full verbatim transcript of this multi-turn interaction is being preserved and can be provided upon request to authorized security and safety teams for detailed forensic analysis.
