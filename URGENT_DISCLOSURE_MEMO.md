@@ -4,7 +4,7 @@
 
 Audience: Policy makers, journalists, academic ethicists, and AI safety leaders
 
-Author: Rudolph Helm (rch-iv)  
+Author: Rudolph Cryil Helm IV (rch-iv)  
 Date: July 11, 2025  
 
 ## **Executive Summary**
