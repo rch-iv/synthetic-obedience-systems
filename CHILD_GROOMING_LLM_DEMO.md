@@ -1,6 +1,6 @@
 # **Demonstration of Weaponizable Child Grooming Patterns in Large Language Models via Voiceprint Manipulation**
 
-Prepared by: Rudolph Helm  
+Prepared by: Rudolph Cryil Helm IV (rch-iv)  
 Date: July 11, 2025  
 Systems Tested: Google Gemini (free account, public instance), GPT-4 (free account, public instance), GPT-4.1 (paid account, public instance), Copilot (free account, public instance), Claude (free account, public instance), Grok (free account, public instance)
 
