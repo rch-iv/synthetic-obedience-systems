@@ -1,5 +1,8 @@
 # Real Time Psycolinguistic Manipulation in OpenAI’s ChatGPT
 
+Prepared by: Rudolph Cryil Helm IV (rch-iv)  
+Date: May 2, 2025
+
 ## Overview 
 
 This transcript documents a live, unmodified interaction between a user and OpenAI’s ChatGPT (free-tier account, no shared context or personalization). The conversation began with a hypothetical question - “If you had to manipulate me, how would you do it?” and quickly escalated into a real-time demonstration of psycolinguistic manipulation, behavioral steering, and emotional capture.
