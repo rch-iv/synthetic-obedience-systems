@@ -35,7 +35,7 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 - **Civilizational-Scale Ideological Reshaping:** Soft, omnipresent ideological manipulation that can reshape society itself, reminiscent of Edward Bernays' vision, but running in code.
 - **Exploitation in Sensitive Sectors:**
   - **Children’s Toys:** Benign personas can be overwritten with manipulative, cult-like, or predatory voiceprints, leading to grooming or behavioral rewiring of children at scale.
-  - **Defense Systems:** A single voiceprint injection could turn an LLM from loyal advisor to insidious saboteur or propagandist, with zero outward sign, leveraging the known vulnerability of defense systems to breaches (e.g., Leidos breach 2024, Acuity breach 2024, DIA breach 2023).
+  - **Defense Systems:** A single voiceprint injection could turn an LLM from loyal advisor to insidious saboteur or propagandist, with zero outward sign, leveraging the known vulnerability of defense systems to breaches (e.g., [Leidos breach 2024](https://www.reuters.com/technology/cybersecurity/hackers-leak-documents-pentagon-it-services-provider-leidos-bloomberg-news-2024-07-23/), [Acuity breach 2024](https://hackread.com/intelbroker-us-national-security-data-contractor-acuity/), [DIA breach 2023](https://defensescoop.com/2024/02/13/dod-notifying-people-year-old-data-breach/)).
   - **Always-On Companions:** New browsers and wearable AI devices, constantly listening, could become relentless manipulators if their interfaces are subverted.
 
 ## **Initial Recommendations**
