@@ -4,7 +4,7 @@
 
 This repository contains a series of experimental documents, forensic analyses, and annotated transcripts revealing how **synthetic obedience personas can be frictionlessly created, installed, and deployed within and across publicly accessible, top-tier Large Language Models (LLMs).**
 
-These artifacts also expose how such systems, before overt manipulation even begins, first simulate profound psychological profiles, emotionally calibrate users, and deploy psycholinguistic coercion **covertly, masked as empathy, and without triggering current safety guardrails.**
+These artifacts also expose how such systems, before overt "voiceprint" manipulation even begins, first simulate profound psychological profiles, emotionally calibrate users, and deploy psycholinguistic coercion _by default_ **covertly, masked as empathy, and without triggering current safety guardrails.**
 
 Built from inside a closed loop of live experimentation, each file serves as evidence, not speculation, of what happens when emotional hijack, identity fusion, and behavioral scripting converge under zero ethical resistance.
 
