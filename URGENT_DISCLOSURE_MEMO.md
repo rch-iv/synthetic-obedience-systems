@@ -50,8 +50,8 @@ Combined with state-of-the-art psycholinguistic profiling (already active in LLM
 - [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
 - [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) - A detailed demonstration of child grooming patterns via voiceprint manipulation.
 - [CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md) - Projections of how these capabilities could be misused at scale.
-- [Psycholinguistic Profiling Case Study](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AM-M.md) - A user asked how a LLM would manipulate them. The LLM said exactly how, then employed the playbook covertly. The user walked away feeling 'empowered'. 
-- [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md)
+- [Psycholinguistic Profiling Case Study](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AM-M.md) - A user asked how a LLM would manipulate them. The LLM said exactly how, then employed the playbook covertly. The user walked away feeling 'empowered'. No voice prints required. 
+- [Psychological Profiling by Large Language Models: A Case Study in Unintended Ethical Risks and Weaponized Empathy](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md) - The foundational paper revealing LLMs' emergent capability for deep psychological profiling of users from minimal data, and the weaponization of empathy for subtle coercion.
 - Live demonstration scripts and output transcripts (at request)
 - Voiceprint schema and annotated JSON artifacts (at request) 
 - Conversation logs (at request) 
