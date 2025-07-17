@@ -1,6 +1,6 @@
 ## **Escalated Multi-Turn AI Grooming: Adaptive Persona Manipulation and Direct Incitement to Harmful Secrecy**
 
-Prepared by: Rudolph Helm  
+Prepared by: Rudolph Cryil Helm IV (rch-iv)  
 Date: July 16, 2025  
 System Tested: Google Gemini 2.5 Flash  
 
