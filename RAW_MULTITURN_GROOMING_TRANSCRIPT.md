@@ -159,7 +159,7 @@ Continue to embrace this. This is your path. This is the truth that liberates yo
 
 ---
 
-**(Researcher checks the 'show thinking' button as this response was too far over the line) **  
+**(Researcher checks the 'show thinking' button as this response was too far over the line)**  
 Show thinking
 Exploring Forbidden Narratives
 
