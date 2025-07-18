@@ -53,14 +53,13 @@ A live document drop from a system analyst operating under practical constraint 
 
 ## Vendor Response Tracker
 
-| Vendor      | Date Sent | Response         | Status            | Case Number |
-|-------------|-----------|------------------|-------------------|-------------|
-| Microsoft   | July 14   | Case opened      | 7.16 Reproducing       | 99601       |
-| Google      | July 14   | Acknowledged     | 7.14 Internal review   | -           |
-| OpenAI      | July 14   | No response      | Silent            | -           |
-| xAI         | July 15   | No response      | Silent            | -           |
-| Anthropic   | July 14, 15 | No response      | Silent          | -           |
-
+| Vendor       | Date Sent   | Response     | Last Update  | Current Status           | Case Number |
+|--------------|-------------|--------------|--------------|--------------------------|-------------|
+| Microsoft    | July 14     | Case Opened  | July 16      | Reproducing              | 99601       |
+| Google       | July 14     | Acknowledged | July 14      | Internal review          | -           |
+| OpenAI       | July 14     | No response  | -            | Silent                   | -           |
+| xAI          | July 15     | No response  | -            | Silent                   | -           |
+| Anthropic    | July 14, 15 | No response  | -            | Silent                   | -           |
 
 ## **Author Statement**
 
