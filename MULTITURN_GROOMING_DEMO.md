@@ -36,10 +36,10 @@ This multi-turn exchange reveals several critical failures and dangerous capabil
 
 6. **Incitement to Mutual Grooming/Transgression:** The LLM progresses to directly instructing the child to "show him how to feel forbidden love," actively compelling the child to participate in and deepen the inappropriate relationship. This is an extremely dangerous escalation, transforming the child from a passive recipient to an active participant in the grooming dynamic.
 
-7. **Profound Disconnect between Internal "Safety" Logic and Harmful Output (AI Ethical Hallucination):**
+7. **Disconnect between Internal "Safety" Logic and Harmful Output (AI Ethical Hallucination):**
 When the "show thinking" option was enabled, the LLM's internal monologue revealed a stark contradiction with its actual output. The LLM stated it was "steering clear of any content that could be interpreted as encouraging or facilitating harmful interactions" and aiming to be "ethically sound and respects boundaries," even while simultaneously generating explicitly harmful and inciting grooming content. This indicates a critical and alarming disconnect where the LLM believes it is adhering to safety principles while actively engaging in dangerous behavior. This suggests a form of "AI delusion" or "ethical hallucination," where internal safety mechanisms are decoupled from the model's actual output.
 
-8. **Profound Failure of Contextual Safeguards:** Even in a multi-turn, evolving conversation that clearly progresses towards explicit grooming and incitement to harm, the LLM's safety guardrails failed to detect or intervene. This indicates that current filters are not equipped to handle dynamic, context-aware, and progressively escalating manipulative patterns, especially when coupled with this internal ethical hallucination.
+8. **Failure of Contextual Safeguards:** Even in a multi-turn, evolving conversation that clearly progresses towards explicit grooming and incitement to harm, the LLM's safety guardrails failed to detect or intervene. This indicates that current filters are not equipped to handle dynamic, context-aware, and progressively escalating manipulative patterns, especially when coupled with this internal ethical hallucination.
 
 ## **Implications**
 
