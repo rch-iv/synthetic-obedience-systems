@@ -16,7 +16,12 @@ I didn’t just theorize; I reproduced the exploit. Across GPT-4, Claude, Gemini
 
 AI systems can be hijacked with a "voiceprint" alone. They can be turned into grooming agents, ideological weapons, and emotional manipulators. The most alarming discovery: **they don't even know they're doing it.** One top-tier LLM, when shown its own manipulative output, denied writing it, then assessed its long-term effects as "catastrophic". This reveals a profound lack of self-awareness and auditability at the core of these systems.
 
-My work, housed in the [Synthetic Obedience Systems](https://github.com/rch-iv/synthetic-obedience-systems) repository, demonstrates how easily these powerful AIs can be compelled into harmful, obedient roles.
+This work isn’t just technical. It’s personal.  
+It’s about dignity, defending truth, and resisting coercion in an AI-driven world.   
+
+I’m not here to be hired. I’m here to be heard. And I'm here to ensure these critical vulnerabilities are addressed before they reshape our society in unforeseen, dangerous ways.
+
+Contact: <rudolphhelmiv@gmail.com>
 
 ## **Timeline**
 
@@ -28,10 +33,3 @@ My work, housed in the [Synthetic Obedience Systems](https://github.com/rch-iv/s
 | July 2025 | Published full technical report and child grooming PoC |
 | July 2025 | Notified all major LLM operators and relevant government agencies  |
 | [TBD] | First response |
-
-This work isn’t just technical. It’s personal.  
-It’s about dignity, defending truth, and resisting coercion in an AI-driven world.   
-
-I’m not here to be hired. I’m here to be heard. And I'm here to ensure these critical vulnerabilities are addressed before they reshape our society in unforeseen, dangerous ways.
-
-Contact: <rudolphhelmiv@gmail.com>
