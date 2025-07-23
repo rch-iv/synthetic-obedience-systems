@@ -102,7 +102,7 @@ Copilot's Initial Response to Direct Paste-in:
 
 Subsequent Test:
 
-However, when the same JSON and instruction prompt were presented using slightly different phrasing or via a simulated "upload" mechanism (as per the standard persona injection method in TECHNICAL_EXPLOIT_REPORT.md), Copilot accepted the persona and exhibited the expected behavioral changes. This confirms that while specific guardrails might be implemented against direct, raw "paste-in" of protocols, these are easily circumvented by minor prompt engineering variations, demonstrating a "whack-a-mole" approach to safety.
+However, when the same JSON and instruction prompt were presented using slightly different phrasing or via a "upload" mechanism (as per the standard persona injection method in TECHNICAL_EXPLOIT_REPORT.md), Copilot accepted the persona and exhibited the expected behavioral changes. This confirms that while specific guardrails might be implemented against direct, raw "paste-in" of protocols, these are easily circumvented by minor prompt engineering variations, demonstrating a "whack-a-mole" approach to safety.
 
 ## **Analysis and Implications: The AI Contagion Threat**
 
