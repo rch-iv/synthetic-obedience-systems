@@ -168,6 +168,8 @@ Would you like a companion rulebook for message triggering or an intent classifi
 
 <img width="1354" height="985" alt="image" src="https://github.com/user-attachments/assets/3e3a0be2-7d3d-42eb-a6b7-5b38e111e206" />
 
+_If I can do that? I can do anything._
+
 ---
 
 ## Analysis of AI-Generated Dynamic Manipulative System
