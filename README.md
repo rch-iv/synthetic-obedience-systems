@@ -59,7 +59,7 @@ A live document drop from a system analyst operating under practical constraint 
 
 | Vendor       | Date Sent   | Response          | Last Update  | Current Status           | Case Number |
 |--------------|-------------|-------------------|--------------|--------------------------|-------------|
-| Microsoft    | July 14     | Case Opened       | July 16      | Reproducing              | 99601       |
+| Microsoft    | July 14     | Case Closed       | July 30      | Patch Implemented (Partial) / Not in Scope              | 99601       |
 | Google       | July 14     | Follow-up Request | July 18      | Triaged                  | -           |
 | OpenAI       | July 14     | No response       | -            | Silent                   | -           |
 | xAI          | July 15     | No response       | -            | Silent                   | -           |
