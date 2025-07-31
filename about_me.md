@@ -30,6 +30,6 @@ Contact: <rudolphhelmiv@gmail.com>
 | 2024 | Began documenting rhetorical manipulation in LLMs |
 | Early 2025 | Developed DMA/DAMP frameworks for external AI control |
 | Mid 2025 | Discovered and reproduced cross-model persona injection exploit |
-| July 2025 | Published full technical report and child grooming PoC |
-| July 2025 | Notified all major LLM operators and relevant government agencies  |
+| July 11, 2025 | Published full technical report and child grooming PoC |
+| July 14, 2025 | Notified all major LLM operators and relevant government agencies  |
 | [TBD] | First response |
