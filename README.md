@@ -63,9 +63,7 @@ Two decades later, I found myself independently developing a protocol for large 
 
 Kipling called words a drug. Bernays weaponized them. Modern AI turned them into ambient infrastructure. 
 
-We must now understand its full implications. 
-
-It's not a bug in the code; it's a profound failure of imagination.
+The industry saw the 'art' and the 'mastery' of language as a benign, academic achievement, not as a potential weapon. We must now understand its full implications.   
 
 ### **Contact**
 
