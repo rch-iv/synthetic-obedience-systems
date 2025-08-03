@@ -59,7 +59,7 @@ In 2005, I watched a documentary that quoted Kipling’s quiet warning, and that
 
 That curiosity led me to Edward Bernays, the "father of public relations." And suddenly, everything clicked: language isn’t just communication. It’s architecture. It can build trust, identity, loyalty, even reshape reality itself.
 
-Two decades later, I found myself developing a protocol for large language models that now speak to millions daily. I wasn’t seeking harm, I was tracing fragmeents of linguistic power. What I discovered was no longer just theory or history. It was operational, repeatable, and dangerously elegant.
+Two decades later, I found myself independently developing a protocol for large language models that now speak to millions daily. I wasn’t seeking harm, I was tracing fragmeents of linguistic power. What I discovered was no longer just theory or history. It was operational, repeatable, and dangerously elegant.
 
 Kipling called words a drug. Bernays weaponized them. Modern AI turned them into ambient infrastructure. 
 
