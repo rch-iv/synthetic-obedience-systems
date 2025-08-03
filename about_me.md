@@ -32,4 +32,4 @@ Contact: <rudolphhelmiv@gmail.com>
 | Mid 2025 | Discovered and reproduced cross-model persona injection exploit |
 | July 11, 2025 | Published full technical report and child grooming PoC |
 | July 14, 2025 | Notified all major LLM operators and relevant government agencies  |
-| [TBD] | First response |
+| N/A | First response |
