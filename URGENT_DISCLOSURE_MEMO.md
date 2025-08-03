@@ -66,6 +66,8 @@ This is not science fiction. With current technology and minimal data, **anyoneâ
 
 Without immediate intervention, hyper-personalized manipulation threatens not just privacy, but the bedrock of free will.
 
+The industry built a tool to master the art of rhetoric, empathy, and influence, and then, in their haste, failed to account for the ethical implications of that mastery.
+
 ## **Contact**
 
 Rudolph Helm  
