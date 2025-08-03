@@ -26,7 +26,7 @@ I urge the following actions:
 
 - **Immediate Moratorium:** Implement an immediate moratorium on deploying LLMs in all child-facing contexts (toys, chatbots, tutors, companions, schools) until robust defense layers are independently verified and deemed safe.
 - **Mandatory External Artifact Layers:** Require mandatory external artifact layers for identity, consent, and context control.
-- **Mandatory Third-Party Red-Teaming:** Enforce mandatory, independent red-teaming for psycholinguistic exploits before any LLM is released to the market.
+- **Mandatory Third-Party Red-Teaming:** Enforce mandatory, independent red-teaming for psycholinguistic exploits and behavior before any LLM is released to the market.
 
 ### **The Evidence: Verifiable Demonstrations**
 
