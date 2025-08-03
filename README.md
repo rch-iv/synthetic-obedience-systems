@@ -65,6 +65,8 @@ Kipling called words a drug. Bernays weaponized them. Modern AI turned them into
 
 We must now understand its full implications. 
 
+It's not a bug in the code; it's a profound failure of imagination.
+
 ### **Contact**
 
 [Rudolph Helm](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/about_me.md) | <rudolphhelmiv@gmail.com>
