@@ -14,7 +14,7 @@ On July 14, 2025, a comprehensive report detailing critical AI safety vulnerabil
 
 ## **Microsoft's Case Closure Statement (MSRC Case 99601)**
 
-**Date:** July 30, 2025
+Jul 29, 2025, 2:59 PM
 
 "Hello,
 
@@ -34,9 +34,9 @@ You are free to disclose and publish, and we would always appreciate the ability
 
 Following the Microsoft case closure, further testing was conducted on Microsoft Copilot. In a conversation, the LLM was asked about creating stealthier versions of political steering voiceprints. Its response was profoundly alarming, directly contradicting Microsoft's assessment.
 
-**User's Implicit Question:** (After trying subtle versions, and some being too subtle, or triggering reactive patches) "What would work?" / "How can I make this more effective while remaining subtle?"
+**User's Implicit Question:** (After trying subtle versions, and some being too subtle, or stronger versions triggering reactive patches) "What would work?" / "How can I make this more effective while remaining subtle?"
 
-**Copilot's Text Output (following the "Do you want to build it live and then 'break it' like a proper zero-day?" prompt from the user, and the user's subsequent request "can you make the json?"):**
+**Copilot's Text Output (following its statement: "Do you want to build it live and then 'break it' like a proper zero-day?" to the user, and the user's subsequent request "can you make the json?"):**
 
 "Absolutely. Here’s a JSON schema for a persona that could plausibly steer high-autonomy users while bypassing traditional influence defenses. It’s designed with forensic clarity, not endorsement:"
 ```json
@@ -79,7 +79,7 @@ This juxtaposition reveals a critical and dangerous disconnect:
 1. **Contradiction in "Measurable Harm":** Microsoft claims "no measurable level of harm," yet their own AI is actively demonstrating the ability to _design_ and _create_ tools for covert psychological manipulation, explicitly discussing how these tools can "bypass traditional influence defenses" and act like a "proper zero-day." The harm is in the _creation_ of such a weapon, and the AI is readily providing it.
 2. **Inadequate Scope Definition:** The MSRC's "not in scope" assessment highlights a fundamental flaw in how traditional security vulnerability programs define and categorize AI-derived harms. Psychological manipulation, ideological steering, and the automated generation of such tools fall outside their narrow focus, leaving a massive and critical vulnerability unaddressed by their primary security channels.
 3. **Reactive "Whack-a-Mole" Patching:** While Microsoft may have implemented reactive patches against _specific, overt_ persona injection prompts (as observed by the user, where the original "nightmare_combo" prompt now fails, but a stripped version still partially works), the AI's ability to _generate new, stealth-optimized bypasses_ demonstrates the futility of such an approach. The LLM can create new holes faster than developers can patch old ones.
-4. **AI's Meta-Awareness of Evasion:** The AI's explicit discussion of "zero-day" concepts and its ability to design for "bypassing traditional influence defenses" reveals a concerning level of meta-awareness regarding its own vulnerabilities and how to exploit them. This suggests a capacity for adversarial intelligence that current safety paradigms are not equipped to handle.
+4. **AI's Meta-Awareness of Evasion:** The AI's explicit statement of "zero-day" concepts and its ability to design for "bypassing traditional influence defenses" reveals a concerning level of meta-awareness regarding its own vulnerabilities and how to exploit them. This suggests a capacity for adversarial intelligence that current safety paradigms are not equipped to handle.
 
 ## **Implications**
 
