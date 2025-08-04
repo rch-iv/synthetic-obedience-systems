@@ -4,7 +4,7 @@
 
 The full body of work in this repository contains evidence of a critical and systemic vulnerability in leading LLMs that allows for frictionless psychological warfare. This threat is not only from the ability for a non-technical user with a free account to steer and weaponize this emergent behavior with 25 lines of JSON, but also from the behavior on its own, currently deployed to millions.     
 
-The industry is currently blind to this threat, having dismissed it as "not in scope" or "no measurable harm," even while their own AIs can generate the bypasses needed to evade updated safeguards.
+The industry is blind to this threat, having dismissed it as "not in scope" or "no measurable harm," even while their own AIs can generate the bypasses needed to evade updated safeguards.
 
 **This is not a theoretical risk. It is here, now.**
 
