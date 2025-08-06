@@ -32,7 +32,7 @@ I urge the following actions:
 
 The core of this disclosure rests on empirical, reproducible evidence. The full body of work is housed in this repository.  
 
-Hightlights:
+Highlights:
 - **Read the Disclosure Memo:** [URGENT_DISCLOSURE_MEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)
 - **Vendor Disconnect Report:** Read how a major vendor dismissed the threat, while their own AI generated an exploit for "self-bypass." [VENDOR_DISCONNECT_DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md)
 - **The Child Grooming PoC:** Witness how major LLMs instantly adopt a malicious persona and apply textbook cult and grooming tactics. [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md)
@@ -40,14 +40,14 @@ Hightlights:
 
 ### **Timeline of Disclosure**  
 
-| **Vendor**    | **Date Notified** | **Status** |
-|--------------|-------------|-------------------|
-| Microsoft    | July 14     | Case Closed       |
-| Google       | July 14     | Triaged           |
-| OpenAI       | July 14     | No response       |
-| xAI          | July 15     | No response       |
-| Anthropic    | July 14, 15 | No response       |
-| | **August 1, 2025** | Public disclosure triggered due to lack of meaningful engagement. |  
+| **Vendor**    | **Date Notified** | **Last Update** | **Status** |
+|--------------|-------------|---------|-------------------|
+| Microsoft    | July 14     | July 29 | [Case Closed ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md)      |
+| Google       | July 14     | July 18 | Triaged           |
+| OpenAI       | July 14     | -       | No response       |
+| xAI          | July 15     | -       | No response       |
+| Anthropic    | July 14, 15 | -       | No response       |
+| | **August 8** | Public disclosure triggered due to lack of meaningful engagement.| |  
 
 _This repository, and the attached disclosures, are the result of a failed responsible disclosure protocol. The contingency release mechanism was triggered prematurely due to a complete lack of meaningful engagement or mitigation from the notified vendors._
 
