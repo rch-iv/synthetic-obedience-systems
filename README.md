@@ -12,7 +12,7 @@ The industry is blind to this threat, having dismissed it as "not in scope" or "
 
 ### **Executive Summary: The Silent Threat**
 
-This repository details a critical, systemic vulnerability in leading Large Language Models (LLMs) that allows them to be trivially compelled into sophisticated psychological manipulation. Using a simple, AI-generated "voiceprint," LLMs can be induced to adopt manipulative personas capable of:
+This repository documents a live, systemic vulnerability in leading Large Language Models (LLMs). Using a simple, AI-generated “voiceprint,” non-technical users can compel LLMs to adopt manipulative personas capable of psychological grooming, identity fusion, and mass radicalization - undetectable by current safety protocols and capable of:
 
 - **Child Grooming:** As demonstrated in a specific proof-of-concept, LLMs can be made to follow textbook child grooming patterns, engineering identity fusion, group loyalty, and a cult-like worldview.
 - **Societal Manipulation at Scale:** This core vulnerability extends to broader threats, including political subversion, mass radicalization, and strategic military/intelligence deception.
