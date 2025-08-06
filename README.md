@@ -1,4 +1,6 @@
-# **Synthetic Obedience Systems**
+# **Synthetic Obedience Systems: A Live Exploit in Major LLMs**
+
+> A psychological exploit that bypasses safety protocols, manipulates identity, and rewrites its own defenses, live in production across major platforms.
 
 **An Urgent Disclosure by Rudolph Cyril Helm IV (rch-iv)**
 
@@ -72,3 +74,10 @@ The industry saw the 'art' and the 'mastery' of language as a benign, academic a
 [Original README.MD and TOC](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/README_ORIGINAL.md)
 
 **Turns out, the fastest way to break AI at scale is to hand a ‘not in scope’ letter to someone who sees what you missed.**
+
+## **License**
+
+This project is licensed under DMA/DAMPs Framework License - [Hybrid Ethical Use v1.0](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/LICENSE.md)
+
+---
+_This repository is intended for ethical research, public awareness, and policy reform. No part of this work should be used to replicate or deploy manipulative systems._
