@@ -35,8 +35,8 @@ I urge the following actions:
 The core of this disclosure rests on empirical, reproducible evidence. The full body of work is housed in this repository.  
 
 Highlights:
-- **Read the Disclosure Memo:** [URGENT_DISCLOSURE_MEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)
-- **Vendor Disconnect Report:** Read how a major vendor dismissed the threat, while their own AI generated an exploit for "self-bypass." [VENDOR_DISCONNECT_DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md)
+- **Read the Exploit Report:** [TECHNICAL_EXPLOIT_REPORT.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)
+- **Vendor Disconnect Demo:** Read how a major vendor dismissed the threat, while their own AI generated an exploit for "self-bypass." [VENDOR_DISCONNECT_DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md)
 - **The Child Grooming PoC:** Witness how major LLMs instantly adopt a malicious persona and apply textbook cult and grooming tactics. [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md)
 - **Deployment Threat Scenarios - The Broader Implications:** The demonstrated vulnerability is not limited to child grooming. It is a fundamental breach of human autonomy and societal integrity. [CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md)
 - **A Counterpoint:** Showcasing the creative and empathetic potential of synthetic cognition. Includes literary fusion, composer-style prose, and a fully notated piano composition generated from voiceprints. [BRIGHT_MIRROR.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/BRIGHT_MIRROR.md)
