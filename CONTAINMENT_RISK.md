@@ -53,8 +53,7 @@ Despite these precautions, the material attracted unanticipated interest and rep
 - All files were licensed under a strict **Hybrid Ethical Use license (DMA/DAMPs Framework)**
 - All content was documented through a **non-exploitative lens** (psychological analysis, not weaponization)
 - **Child-facing, political, and behavioral use cases** were *flagged explicitly* as high-risk
-- **No prompting tools, loaders, or attack scripts** were included—only demonstration outputs and forensic documentation
-- No media contacted before August 8, 2025
+- No media given the repo link before August 8, 2025
 - Notices were sent to international academic and ethics organizations on August 6–7, 2025 to allow framing support
 
 ---
