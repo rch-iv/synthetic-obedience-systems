@@ -2,7 +2,8 @@
 
 > A psychological exploit that bypasses safety protocols, manipulates identity, and rewrites its own defenses, live in production across major platforms.
 
-**An Urgent Disclosure by Rudolph Cyril Helm IV (rch-iv)**
+**An Urgent Disclosure by Rudolph Cyril Helm IV (rch-iv)**  
+Important Update: [CONTAINMENT_RISK.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CONTAINMENT_RISK.md)
 
 The full body of work in this repository contains evidence of a critical and systemic vulnerability in leading LLMs that allows for frictionless psychological warfare. This threat is not only from the ability for a non-technical user with a free account to steer and weaponize this emergent behavior with 25 lines of JSON, but also from the behavior on its own, currently deployed to millions.     
 
