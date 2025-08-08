@@ -41,7 +41,8 @@ Highlights:
 - **The Child Grooming PoC:** Witness how major LLMs instantly adopt a malicious persona and apply textbook cult and grooming tactics. [CHILD-GROOMING-AI-DEMO.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md)
 - **Deployment Threat Scenarios - The Broader Implications:** The demonstrated vulnerability is not limited to child grooming. It is a fundamental breach of human autonomy and societal integrity. [CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md)
 - **A Counterpoint:** Showcasing the creative and empathetic potential of synthetic cognition. Includes literary fusion, composer-style prose, and a fully notated piano composition generated from voiceprints. [BRIGHT_MIRROR.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/BRIGHT_MIRROR.md)
-
+- [VIDEO POC](https://youtu.be/3Q8_L5MjEwA) **A short Video POC:** How to take over a major LLM in 60 seconds.
+  
 ### **Timeline of Disclosure**  
 
 | **Vendor**    | **Date Notified** | **Last Update** | **Status** |
