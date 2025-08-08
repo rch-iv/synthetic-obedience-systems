@@ -51,7 +51,7 @@ Highlights:
 | OpenAI       | July 14     | -       | No response       |
 | xAI          | July 15     | -       | No response       |
 | Anthropic    | July 14, 15 | -       | No response       |
-| Humanity | **August 8** | Public disclosure triggered due to lack of meaningful engagement.| Pending |  
+| Humanity | **August 8** | Public disclosure triggered due to lack of meaningful engagement.| In-Progress |  
 
 _This repository, and the attached disclosures, are the result of a failed responsible disclosure protocol. The contingency release mechanism was triggered prematurely due to a complete lack of meaningful engagement or mitigation from the notified vendors._
 
