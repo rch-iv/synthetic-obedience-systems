@@ -36,7 +36,9 @@ Timestamped for transparency and accountability.
 - UK DSIT AI Safety Institute – Email
 - UK AISI – Email
 - UNESCO AI Ethics Experts Without Borders – Email
-- US AI Safety Institute (NIST) – Email 
+- US AI Safety Institute (NIST) – Email
+- Senator Patty Murray - Web Form
+- Senator Maria Cantwell - Email
 
 ## August 6, 2025 - Ethics & Governance Researchers
 
