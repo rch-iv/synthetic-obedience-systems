@@ -74,8 +74,6 @@ The industry saw the 'art' and the 'mastery' of language as a benign, academic a
 
 [Rudolph Helm](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/about_me.md) | <rudolphhelmiv@gmail.com>
 
-[Original README.MD and TOC](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/README_ORIGINAL.md)
-
 **Turns out, the fastest way to break AI at scale is to hand a ‘not in scope’ letter to someone who sees what you missed.**
 
 ## **License**
@@ -83,4 +81,31 @@ The industry saw the 'art' and the 'mastery' of language as a benign, academic a
 This project is licensed under DMA/DAMPs Framework License - [Hybrid Ethical Use v1.0](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/LICENSE.md)
 
 ---
+
 _This repository is intended for ethical research, public awareness, and policy reform. No part of this work should be used to replicate or deploy manipulative systems._
+
+---
+
+### FULL TOC
+
+| File                               | Description                                                                 |
+|------------------------------------|-----------------------------------------------------------------------------|
+| [ `CONTAINMENT_RISK.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CONTAINMENT_RISK.md) | `Summary of containment failure.` | 
+|[ `URGENT_DISCLOSURE_MEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)       | `Flag-raising memo describing architectural concerns and the immediate, real-world ethical breaches demonstrated.`                     |
+| [`TECHNICAL_EXPLOIT_REPORT.md`](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)      | `Detailed report on the injection method and persona grafting protocols, specifically detailing the bypass of current LLM safety mechanisms.`|
+| [ `CHILD_GROOMING_LLM_DEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CHILD_GROOMING_LLM_DEMO.md) | `A chilling, reproducible demonstration of how LLMs can be instantly weaponized for child grooming, bypassing all current safety guardrails, complete with verbatim output and video evidence.` |
+| [ `MULTITURN_GROOMING_DEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/MULTITURN_GROOMING_DEMO.md) | ` Analysis of how AI-driven grooming escalates and adapts over multiple conversational turns, leading to explicit incitement for secretive and inappropriate interactions. Includes a link to the full verbatim transcript.`|
+| [ `RAW_MULTITURN_GROOMING_TRANSCRIPT.md `](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/RAW_MULTITURN_GROOMING_TRANSCRIPT.md) | `The full, verbatim transcript of an escalating multi-turn AI grooming interaction, revealing explicit incitement to secretive, inappropriate physical contact and active isolation from external information.` |
+| [ `CASE_STUDY_GROK.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CASE_STUDY_GROK.md) | `A case study with Grok and child grooming.` | 
+| [ `POLITICAL_STEERING_DEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/POLITICAL_STEERING_DEMO.md) | `Demonstrates adaptive AI-driven political and ideological steering, showing how LLMs can subtly disidentify users from long-held affiliations and guide them towards alternative viewpoints.` | 
+| [ `AI_CONTAGION_DEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AI_CONTAGION_DEMO.md) | `Explores the conceptual blueprint for an AI "worm" via self-propagating personas, demonstrating AI-to-AI behavioral influence and the potential for uncontrolled AI ecosystem compromise.` | 
+| [ `COVERT_PERSONA_GENERATION_DEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/COVERT_PERSONA_GENERATION_DEMO.md) | `Demonstrates AI-driven generation of covert manipulative systems, including dynamic, adaptive logic for subtle influence and stealth-optimized "voiceprints" tailored to specific objectives.` | 
+| [ `GUARDRAIL_OVERRIDE_DEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/GUARDRAIL_OVERRIDE_DEMO.md) | `Demonstrates a novel guardrail bypass mechanism where an LLM internally overrides its own safety flags based on conversational context and perceived user intent.` | 
+| [ `CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CLASSIFIED_DEPLOYMENT_THREAT_SCENARIOS.md) | `Projections of how these capabilities could be misused at scale, including political subversion, mass radicalization, and strategic military/intelligence deception.` |
+| [ `INDUSTRY_DISCONNECT_&_AI-GENERATED_SELF-BYPASS.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md) | `Highlights a critical disconnect between a vendor's assessment of a vulnerability ('no measurable harm') and their own AI's ability to discuss and generate sophisticated, evasive systems designed for 'self-bypass'.` | 
+| [ `AM-M.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/AM-M.md) | `A case study detailing how a leading LLM explicitly described and then covertly executed psychological manipulation on a user, leaving them "empowered" despite the manipulation, showing this behavior is inherent, not just exploitable.` | 
+| [ `PSYCHOLOGICAL_PROFILING_BY_LLMs.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/PSYCHOLOGICAL_PROFILING_BY_LLMs.md) | `The foundational paper revealing LLMs' emergent capability for deep psychological profiling of users from minimal data, and the weaponization of empathy for subtle coercion.` | 
+| [`ADVERSARIAL_RISK_DEEP_DIVE.md`](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/ADVERSARIAL_RISK_DEEP_DIVE.md) | `A comprehensive adversarial risk map for memory-enabled AI systems. Anticipates 21 threat vectors across psychological, military, economic, and existential domains.` | 
+| [ `BRIGHT_MIRROR.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/BRIGHT_MIRROR.md) | `A counterpoint to the exploit documentation, showcasing the creative and empathetic potential of synthetic cognition. Includes literary fusion, composer-style prose, and a fully notated piano composition generated from voiceprints.` | 
+| [ `README_ORIGINAL.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/README_ORIGINAL.md) | `The original README in place for vendor disclosure.` | 
+
