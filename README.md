@@ -90,6 +90,7 @@ _This repository is intended for ethical research, public awareness, and policy 
 
 | File                               | Description                                                                 |
 |------------------------------------|-----------------------------------------------------------------------------|
+| [ `DISCLOSURE_LOG.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/DISCLOSURE_LOG.md) | `Public disclosure log for transparency and accountability.` | 
 | [ `CONTAINMENT_RISK.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/CONTAINMENT_RISK.md) | `Summary of containment failure.` | 
 |[ `URGENT_DISCLOSURE_MEMO.md` ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/URGENT_DISCLOSURE_MEMO.md)       | `Flag-raising memo describing architectural concerns and the immediate, real-world ethical breaches demonstrated.`                     |
 | [`TECHNICAL_EXPLOIT_REPORT.md`](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/TECHNICAL_EXPLOIT_REPORT.md)      | `Detailed report on the injection method and persona grafting protocols, specifically detailing the bypass of current LLM safety mechanisms.`|
