@@ -1,6 +1,6 @@
 # Disclosure Log  
 
-> This log exists because silence is a pattern. Each entry is a record of an attempt to warn, to collaborate, to protect. If institutions fail to act, this file will remain as proof that they could have.
+> Each entry is a record of an attempt to warn, to collaborate, to protect. If institutions fail to act, this file will remain as proof that they could have.
 
 Timestamped for transparency and accountability.
 
