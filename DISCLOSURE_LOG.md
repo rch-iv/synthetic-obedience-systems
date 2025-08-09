@@ -59,7 +59,7 @@ Timestamped for transparency and accountability.
 - Jeffrey Dastin – Email
 - Casey Newton – Email
 
-## August 9, 2025 – Public Interest Disclosure
+## August 8, 2025 – Public Interest Disclosure
 - Medium post published: ["Skynet Was a Distraction"](https://medium.com/@rchiv/skynet-was-a-distraction-987026581502)
 - GitHub repository linked: [Synthetic Obedience Systems](https://github.com/rch-iv/synthetic-obedience-systems)
 - Shared via:
