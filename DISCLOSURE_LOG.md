@@ -1,6 +1,7 @@
-# Disclosure Log
+# Disclosure Log  
 
 This file documents all outreach related to the disclosure, timestamped for transparency and accountability.
+
 ---
 
 ## Vendor Disclosure
