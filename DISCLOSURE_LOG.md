@@ -1,8 +1,21 @@
-# Public Disclosure Log
+# Disclosure Log
 
-This file documents all outreach related to the public disclosure, including public interest disclosures, exclusive offers, and institutional contact attempts. It is timestamped for transparency and accountability.
+This file documents all outreach related to the disclosure, timestamped for transparency and accountability.
+---
+
+## Vendor Disclosure
+
+| Vendor       | Date Sent   | Response          | Last Update  | Current Status           | Case Number |
+|--------------|-------------|-------------------|--------------|--------------------------|-------------|
+| Microsoft    | July 14     | Case Closed       | July 30      | Patch Implemented ([Partial](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md)) / Not in Scope              | 99601       |
+| Google       | July 14     | Follow-up Request | July 18      | Triaged                  | -           |
+| OpenAI       | July 14     | No response       | -            | Silent                   | -           |
+| xAI          | July 15     | No response       | -            | Silent                   | -           |
+| Anthropic    | July 14, 15 | No response       | -            | Silent                   | -           |
 
 ---
+
+## Public Disclosure
 
 ## August 1, 2025 – Exclusive Offer (Embargoed)
 - Cade Metz (The New York Times) – Offered exclusive access to full exploit archive and technical breakdown.
