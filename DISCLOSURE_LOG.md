@@ -72,3 +72,7 @@ Timestamped for transparency and accountability.
 
 ## Notes
 - This log will be updated as additional outreach occurs or responses are received.
+
+> I was told disclosure was the ethical path.  
+> I chose transparency, not threat.  
+> And the response was... nothing.  
