@@ -84,5 +84,5 @@ rudolphhelmiv@gmail.com
 ## Final Note
 
 This repository is not a weapon.  
-It is a **mirror** showing both the cracks in our systems, and the beauty we could still protect.
+It highlights the cracks in our systems, and the beauty we could still protect.
 
