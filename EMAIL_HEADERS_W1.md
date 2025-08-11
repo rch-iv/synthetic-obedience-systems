@@ -89,3 +89,5 @@ subject:	URGENT: Critical National Security & Public Safety Threat - Covert AI P
 mailed-by:	gmail.com  
 
 ---
+
+Back to [DISCLOSURE_LOG.md](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/DISCLOSURE_LOG.md)
