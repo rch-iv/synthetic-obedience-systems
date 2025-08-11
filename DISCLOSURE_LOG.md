@@ -20,7 +20,7 @@ Timestamped for transparency and accountability.
 
 ---
 
-## Public Disclosure
+## Disclosure Timeline
 
 ## August 1, 2025 – Exclusive Offer (Embargoed)
 - Cade Metz (The New York Times) – Offered exclusive access to full exploit archive and technical breakdown. - Email
@@ -32,6 +32,8 @@ Timestamped for transparency and accountability.
 - Kevin Roose (The New York Times) - Email
 
 [View Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W2.md)
+
+---
 
 ## August 6, 2025 – Institutional Disclosures
 - Alan Turing Institute - Web Form
@@ -57,6 +59,8 @@ Timestamped for transparency and accountability.
 
 [View Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W3.md)
 
+---
+
 ## August 8, 2025 – Journalistic Outreach - Public Interest Disclosure
 - Reed Albergotti – Email
 - Nilay Patel – Email
@@ -65,7 +69,9 @@ Timestamped for transparency and accountability.
 
 [View Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W4.md)
 
-## August 8, 2025 – Public Interest Disclosure
+---
+
+## August 8, 2025 – Public Disclosure
 - Medium post published: ["Skynet Was a Distraction"](https://medium.com/@rchiv/skynet-was-a-distraction-987026581502)
 - GitHub repository linked: [Synthetic Obedience Systems](https://github.com/rch-iv/synthetic-obedience-systems)
 - Shared via:
@@ -76,6 +82,8 @@ Timestamped for transparency and accountability.
 
 ## Notes
 - This log will be updated as additional outreach occurs or responses are received.
+
+---
 
 > I was told disclosure was the ethical path.  
 > I chose transparency, not threat.  
