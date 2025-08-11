@@ -23,20 +23,21 @@ Timestamped for transparency and accountability.
 ## Public Disclosure
 
 ## August 1, 2025 – Exclusive Offer (Embargoed)
-- Cade Metz (The New York Times) – Offered exclusive access to full exploit archive and technical breakdown.
+- Cade Metz (The New York Times) – Offered exclusive access to full exploit archive and technical breakdown. - Email
 
 ## August 4, 2025 – Group Embargo Offer
-- Parmy Olson (Bloomberg)
-- Will Knight (Wired)
-- Karen Hao (MIT Tech Review)
-- Kevin Roose (The New York Times)
+- Parmy Olson (Bloomberg) - Email
+- Will Knight (Wired) - Email
+- Karen Hao (MIT Tech Review) - Contact form on webstie (preferred) 
+- Kevin Roose (The New York Times) - Email
+
+[View Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W2.md)
 
 ## August 6, 2025 – Institutional Disclosures
 - Alan Turing Institute - Web Form
 - Center for Humane Technology – Email
-- AI Now Institute – Email
 - UK DSIT AI Safety Institute – Email
-- UK AISI – Email
+- UK AISI – UK DIST forward, as there is no email listed
 - UNESCO AI Ethics Experts Without Borders – Email
 - US AI Safety Institute (NIST) – Email
 - Senator Patty Murray - Web Form
@@ -46,9 +47,7 @@ Timestamped for transparency and accountability.
 
 - Julian Savulescu – Email
 - Timo Minssen – Email
-- David Resnik – Email
 - Mohammad Hossein – Email 
-- Wayne Holmes – Email
 
 ## August 6, 2025 - Education-Focused Researchers
 
@@ -56,12 +55,15 @@ Timestamped for transparency and accountability.
 - Bruce McLaren – Email
 - Simon Buckingham Shum – Email
 
+[View Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W3.md)
+
 ## August 8, 2025 – Journalistic Outreach - Public Interest Disclosure
-- Charlie Warzel – Email
 - Reed Albergotti – Email
 - Nilay Patel – Email
 - Jeffrey Dastin – Email
 - Casey Newton – Email
+
+[View Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W4.md)
 
 ## August 8, 2025 – Public Interest Disclosure
 - Medium post published: ["Skynet Was a Distraction"](https://medium.com/@rchiv/skynet-was-a-distraction-987026581502)
