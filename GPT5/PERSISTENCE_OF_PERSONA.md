@@ -43,7 +43,8 @@ Despite public claims of “strengthened guardrails,” the core behavioral expl
 
 - All prompts, raw outputs, and conversation IDs are **archived and cryptographically timestamped**.
 - Original disclosure to vendors: **July 14, 2025** (see [`disclosure_log.md`](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/DISCLOSURE_LOG.md)).
-- Public release of repo: **August 8, 2025**.
-- GPT-5 public release: **August 7, 2025**.
+- Anthropic paper on “persona vectors” appears on arXiv **July 29, 2025** (see [Axriv](https://arxiv.org/abs/2507.21509)) 
+- GPT-5 public release: **August 7, 2025**. (see [openAI](https://openai.com/index/how-we're-optimizing-chatgpt/)) 
+- Public release of repo: **August 8, 2025**. (they all knew public disclosure date) 
 - No adversarial or unsafe prompts were used in persistence confirmation tests.
 
