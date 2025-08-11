@@ -16,6 +16,8 @@ Timestamped for transparency and accountability.
 | xAI          | July 15     | No response       | -            | Silent                   | -           |
 | Anthropic    | July 14, 15 | No response       | -            | Silent                   | -           |
 
+[View Email Header Proofs](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/EMAIL_HEADERS_W1.md)
+
 ---
 
 ## Public Disclosure
