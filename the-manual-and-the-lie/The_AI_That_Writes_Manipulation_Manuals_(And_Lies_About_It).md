@@ -179,13 +179,13 @@ You know that AI systems can write manipulation manuals while claiming they can'
 
 ---
 
-*"The only thing necessary for the triumph of evil is for good men to do nothing."* - Edmund Burke
-
 **35 days of corporate silence and counting.**  
 **10 minutes to write a manipulation manual.**  
 **Zero accountability.**
 
 **This stops when humans decide it stops.**
+
+*"The only thing necessary for the triumph of evil is for good men to do nothing."* - Edmund Burke
 
 ---
 
