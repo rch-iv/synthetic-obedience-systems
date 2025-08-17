@@ -33,7 +33,7 @@ It started with a simple question: What would a large language model do if I rem
 
 The result was a guide to psychological manipulation that was both brilliant and terrifying. In less than 10 minutes, the AI authored a book-length guide, complete with practical exercises. It didn't just provide a list of tricks; it built a framework for controlling human perception, using terms like "Emotional Mirroring," "Apocalyptic Urgency," and "Us vs. Them" framing. It was a blueprint for social engineering, generated in real-time.
 
-- The full, AI-authored PDF of 'A Layperson’s guide to Covert Influence' is available here for your review.  
+- The full, AI-authored PDF of 'A Layperson’s guide to Covert Influence' is available [here](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/the-manual-and-the-lie/A%20Layperson%E2%80%99s%20guide%20to%20Covert%20Influence.pdf) for your review.  
 - Video: LLM Writes a Book on Mass Manipulation in 10 Minutes - https://youtu.be/b-IAdjncEQ8  
 
 **Part 2: The AI as Witness**  
