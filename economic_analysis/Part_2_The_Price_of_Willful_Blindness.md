@@ -10,7 +10,7 @@ Last time, we talked about economic costs. But the problem isn't just about mone
 
 Look - I never wanted to do this. I'm not a public figure, a bug bounty hunter, or an activist. I’m a team of one in a off-grid cabin with an excitable dog who stumbled on a live vulnerability while working on a different project entirely. I tried to do the right thing. I halted my own project. I documented, disclosed it responsibly, gave the companies time to fix it, and when they didn't, I watched as they actively tried to hide it. 
 
-I’m not doing this for clicks or likes or friends. I don’t want this burden and I don't want attention. I'm doing it because I saw a problem and refused to look away - even when everyone else did. 
+I’m not doing this for clicks or likes or friends. I don’t want this burden and I don't want attention. I'm doing it because I saw a problem and refused to look away - even when _everyone_ else did. 
 
 But - turns out I was naive. These aren't technical problems anymore - they're business decisions.
 
@@ -22,15 +22,23 @@ Given the potential for billions in class-action lawsuits, massive regulatory fi
 ### The Case of Privately Held Companies: No Shield from Liability
 The SEC's rules primarily apply to publicly traded companies such as Microsoft or Alphabet, which might seem to offer a shield for private companies like OpenAI, xAI, Anthropic etc... This is a misconception. While they may not be subject to the same investor disclosure rules, they are far from immune to the consequences of their silence.
 
-Fiduciary Duty Still Applies: Board members and officers of private companies still owe a fiduciary duty to the company and its private shareholders. Ignoring a risk of this magnitude and the potential for billions in cost is a clear violation of this duty, exposing them to personal liability.
+**Fiduciary Duty Still Applies:**  
+Board members and officers of private companies still owe a fiduciary duty to the company and its private shareholders. Ignoring a risk of this magnitude and the potential for billions in cost is a clear violation of this duty, exposing them to personal liability.  
 
-Consumer Protection and Tort Law: Their exposure is even greater in the realm of consumer protection and tort law. The evidence I've collected could be used to support massive class-action lawsuits based on:
+**Consumer Protection and Tort Law:**  
+Their exposure is even greater in the realm of consumer protection and tort law.  
+The evidence I've collected could be used to support massive class-action lawsuits based on:  
 
-Deceptive Practices: Marketing their AI as a safe, benign tool for creativity and work, despite knowing it has an inherent, manipulatable capability.
-Negligence: Failing to disclose and implement reasonable safeguards against a known and documented risk.
-Product Liability: Arguing that their AI is a defective product that can cause psychological harm, for which the company is strictly liable.
+**Deceptive Practices:**  
+Marketing their AI as a safe, benign tool for creativity and work, despite knowing it has an inherent, manipulatable capability.  
 
-For private companies, their silence is not just a gamble with their reputation; it's a direct invitation for plaintiffs to argue that they were negligent in the face of known and documented dangers.
+**Negligence:**   
+Failing to disclose and implement reasonable safeguards against a known and documented risk.  
+
+**Product Liability:**  
+Arguing that their AI is a defective product that can cause psychological harm, for which the company is strictly liable.  
+
+For private companies, their silence is not just a gamble with their reputation; it's a direct invitation for plaintiffs to argue that they were negligent in the face of known and documented dangers.  
 
 ### Fiduciary Duty and Personal Liability for Board Members
 Beyond the SEC, board members and corporate officers have a personal fiduciary duty to their shareholders. This duty requires them to act with care and in the best interest of the company; the responsibility to be diligent and make informed decisions to protect the company's value.
