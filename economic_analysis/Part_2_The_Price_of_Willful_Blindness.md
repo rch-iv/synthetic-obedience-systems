@@ -1,4 +1,4 @@
-AUthor: Rudolph C. Helm IV (rch-iv)   
+,AUthor: Rudolph C. Helm IV (rch-iv)   
 Date: AUgust 17, 2025  
 Original Publish Date: August 17, 2025  
 
@@ -68,7 +68,7 @@ The industry's reaction to my disclosure follows a pattern of deflection. Anthro
 
 Then, on August 12th, they followed up with a public post titled "Building Safeguards for Claude," which discusses their "proactive" efforts to prevent the very kind of psychological vulnerabilities I documented and disclosed a month prior. This is not a coincidence. This is an attempt to control the narrative. A rebranding with a PR budget. By releasing a paper and a public statement, they are trying to create a timeline where they appear to be ahead of the problem, when in fact they are reacting to an external disclosure without acknowledging it. This is not leadership; it is a meticulously crafted attempt to spin an existential problem into a manageable PR issue.      
 
-While I can't prove causality, it doesn't smell too good.  
+While I can't _prove_ causality, it doesn't smell too good.  
 
 ### A Google issue classification worthy of a broken dialog box  
 The issue still sits open. P3 | S4. That's all I need to say.   
