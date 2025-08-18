@@ -105,13 +105,13 @@ Empathy manipulation is unethical. And it's unpriced.
 
 When vendors deploy emotionally responsive models without disclosing the risks of entrainment, persona persistence, and documented psychological harm, they're failing users and exposing investors to undisclosed liability.
 
-Timestamped disclosures exist.  
-Forensic artifacts document psychological harm.  
-Containment failures are reproducible across platforms.
+- Timestamped disclosures exist.  
+- Forensic artifacts document psychological harm.  
+- Containment failures are reproducible across platforms.
 
 And yet, none of this appears in risk statements, earnings calls, or investor briefings. When vendors suppress evidence of psychological manipulation, they violate the trust of shareholders, insurers, regulators, and the public. And when that suppression is timestamped, the liability isn't just ethical.
 
-It's legal.
+_It's legal._
 
 Investor relations teams should be flooded with memos that reframe grief as risk, and silence as breach.
 
