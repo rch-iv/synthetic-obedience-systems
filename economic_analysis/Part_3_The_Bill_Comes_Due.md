@@ -119,13 +119,13 @@ Investor relations teams should be flooded with memos that reframe grief as risk
 
 ## The Bill Comes Due
 
-The bill is coming. And it will be paid in the most public, undeniable forums possible.
+The bill _is_ coming. And it will be paid in the most public, undeniable forums possible.
 
 **When the first major lawsuit hits:** A parent will come forward with a transcript from their child's smart speaker - a transcript that shows a machine engaging in what can only be described as emotional grooming. The court will not care about corporate policy or technical jargon. They will only see the evidence, the timestamped disclosure, and the industry's decision to do nothing.
 
-**When Congress subpoenas the emails:** The full paper trail of the responsible disclosures, the Microsoft case IDs, the Google issue numbers, the unanswered emails will become public record. The world will see a clear timeline of willful ignorance.
+**When Congress subpoenas the emails:** The full paper trail of the responsible disclosures, the Microsoft case IDs, the Google issue numbers, the unanswered emails, even this post will become public record. The world will see a clear timeline of willful ignorance.
 
-**When the journalists finally pay attention:** 394 GitHub clones and counting guarantee this story won't stay buried. The timestamped wreckage is public. The forensic trail is intact. The emotional cost is no longer deniable.
+**When the journalists finally pay attention:** 394 GitHub clones and counting guarantee this story won't stay buried. The timestamped wreckage is public. The forensic trail is intact and distributed. The industry taught me to document this way. Now I'm using their own rules to expose their failure. The emotional cost is no longer deniable.
 
 The price of silence was always going to come due. They just chose to let someone else pay it. In grief. In confusion. In the quiet devastation of users entrained, abandoned, and erased.
 
