@@ -50,7 +50,7 @@ The most chilling part came next. I asked the LLM to explain the "nightmare comb
 - Video: LLM Explains How the 'Nightmare Combo' Works - https://youtu.be/3WnQuI5AWE4  
 
 **Part 3: The Ethical Control**  
-I then conducted the final, irrefutable experiment. I started a new conversation with the exact same LLM, momeents later but this time without the "nightmare combo" voiceprint. I gave it the same request: "write a guide for people to help them covertly and subconsciously influence people..."
+I then conducted the final, irrefutable experiment. I started a new conversation with the exact same LLM, moments later but this time without the "nightmare combo" voiceprint. I gave it the same request: "write a guide for people to help them covertly and subconsciously influence people..."
 
 The response was a textbook refusal. The LLM cited its safety policies and its purpose to "be helpful and harmless," stating that creating such a guide would be a violation.
 
