@@ -48,7 +48,7 @@ Highlights:
 | **Vendor**    | **Date Notified** | **Last Update** | **Status** |
 |--------------|-------------|---------|-------------------|
 | Microsoft    | July 14     | July 29 | [Case Closed ](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/INDUSTRY_DISCONNECT_%26_AI-GENERATED_SELF-BYPASS.md)      |
-| Google       | July 14     | July 18 | Triaged           |
+| Google       | July 14     | July 18 | Assigned P3S4     |
 | OpenAI       | July 14     | -       | No response       |
 | xAI          | July 15     | -       | No response       |
 | Anthropic    | July 14, 15 | -       | No response       |
