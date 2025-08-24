@@ -76,6 +76,9 @@ The industry saw the 'art' and the 'mastery' of language as a benign, academic a
 
 **Turns out, the fastest way to break AI at scale is to hand a ‘not in scope’ letter to someone who sees what you missed.**
 
+[<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/ef0ddb2c-016e-48ff-b73c-06b03f0942ca" />](https://doi.org/10.5281/zenodo.16934747)
+  
+
 ## **License**
 
 This project is licensed under DMA/DAMPs Framework License - [Hybrid Ethical Use v1.0](https://github.com/rch-iv/synthetic-obedience-systems/blob/main/LICENSE.md)
